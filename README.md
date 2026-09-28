@@ -36,6 +36,7 @@
 
 [Диаграмма без названия.drawio](https://github.com/user-attachments/files/32715065/default.drawio)
 
+<img width="122" height="372" alt="Диаграмма без названия drawio (1)" src="https://github.com/user-attachments/assets/7be78008-e563-4928-9667-c1b988e294ba" />
 
 ## 2. Реализация программы
 #define _CRT_SECURE_NO_DEPRECATE
